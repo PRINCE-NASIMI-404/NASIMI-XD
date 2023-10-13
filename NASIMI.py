@@ -174,8 +174,8 @@ logo=(f"""{WHITE}
 \033[1;31m88 V8o88 88~~~88   `Y8b.    88    88  88  88    88    
 \033[1;35m88  V888 88   88 db   8D   .88.   88  88  88   .88.   
 \033[1;32mVP   V8P YP   YP `8888Y' Y888888P YP  YP  YP Y888888P 
-\033[1;33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-{WHITE}[\033[1;33m⍣\033[1;33m{WHITE}]{WHITE} OWNER       :  Gul Ahmad Nasimi 
+\033[1;33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+{WHITE}[\033[1;33m⍣\033[1;33m{WHITE}]{WHITE} OWNER        :  Gul Ahmad Nasimi 
 [\033[1;33m⍣\033[1;33m{WHITE}]{WHITE} FaceBook     :  Prince Nasimi
 [\033[1;33m⍣\033[1;33m{WHITE}]{WHITE} Version      :  {RED}1.0
 {WHITE}[\033[1;33m⍣\033[1;33m{WHITE}]{WHITE} TOOL Status  :  Free 
