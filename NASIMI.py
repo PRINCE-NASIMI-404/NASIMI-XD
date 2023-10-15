@@ -177,7 +177,7 @@ logo=(f"""{WHITE}
 \033[1;33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 {WHITE}[\033[1;33m⍣\033[1;33m{WHITE}]{WHITE} OWNER        :  Gul Ahmad Nasimi 
 [\033[1;33m⍣\033[1;33m{WHITE}]{WHITE} FaceBook     :  Prince Nasimi
-[\033[1;33m⍣\033[1;33m{WHITE}]{WHITE} Version      :  {RED}1.0
+[\033[1;33m⍣\033[1;33m{WHITE}]{WHITE} Version      :  {RED}2.0
 {WHITE}[\033[1;33m⍣\033[1;33m{WHITE}]{WHITE} TOOL Status  :  Free 
 \033[1;33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[1;37m""")
 def linex():
